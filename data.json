@@ -26,15 +26,20 @@
   "buttons": [
     {
       "label": "Portfolio Website",
-      "url": "https://lknzmzd.com"
+      "url": "https://www.lknzmzd.net"
     },
     {
-      "label": "GitHub Profile",
-      "url": "https://github.com/lknzmzd"
+      "label": "Robotics Projects",
+      "url": "https://www.lknzmzd.com"
     },
     {
       "label": "Contact Me",
       "url": "mailto:ilkinazimzade@lknzmzd.com"
+    },
+    { 
+      "label": "Call Me", 
+      "url": "tel:+48518468554" 
     }
+
   ]
 }
