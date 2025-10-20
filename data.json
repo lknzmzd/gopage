@@ -1,0 +1,40 @@
+{
+  "name": "Ilkin Azimzade",
+  "tagline": "Building robotics, automation & data\u2013driven projects.",
+  "socials": [
+    {
+      "icon": "instagram",
+      "url": "https://instagram.com/lknzmzd"
+    },
+    {
+      "icon": "youtube",
+      "url": "https://www.youtube.com/@lknzmzd"
+    },
+    {
+      "icon": "x",
+      "url": "https://x.com/lknzmzd"
+    },
+    {
+      "icon": "facebook",
+      "url": "https://facebook.com/lknzmzd"
+    },
+    {
+      "icon": "github",
+      "url": "https://github.com/lknzmzd"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Portfolio Website",
+      "url": "https://lknzmzd.com"
+    },
+    {
+      "label": "GitHub Profile",
+      "url": "https://github.com/lknzmzd"
+    },
+    {
+      "label": "Contact Me",
+      "url": "mailto:ilkinazimzade@lknzmzd.com"
+    }
+  ]
+}
